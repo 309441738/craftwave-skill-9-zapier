@@ -1,0 +1,10 @@
+{
+  "title": "家庭邮轮假期",
+  "description": "为家庭旅客设计的邮轮产品，支持按目的地和活动筛选，确保每位家庭成员都能享受旅程。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
