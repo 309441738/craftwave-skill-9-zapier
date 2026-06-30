@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/craftwave-skill-9",
+  "description": "为家庭旅客设计的邮轮产品，支持按目的地和活动筛选，确保每位家庭成员都能享受旅程。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/7014059c-a5f8-4562-a539-cb365b9ee699"
+    }
+  ]
+}
